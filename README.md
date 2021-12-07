@@ -5,7 +5,7 @@
 
 
 - 📖 Cursando o 7º período de Sistemas de Informação na Universidade do Estado do Amazonas
-- 💻 Desenvolvedor Python e NODE.js
+- 💻 Desenvolvedor Python e JS.
 - 👨‍💻 Pesquisador em NLP
 - 📊 Um apaixonado por dados 
 <!--
