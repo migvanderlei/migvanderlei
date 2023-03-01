@@ -5,7 +5,7 @@
 
 
 - 📖 Cursando Sistemas de Informação na Universidade do Estado do Amazonas
-- 💻 Desenvolvedor Python e JS.
+- 💻 Engenheiro de Machine Learning
 - 👨‍💻 Pesquisador em NLP
 - 📊 Um apaixonado por dados 
 <!--
