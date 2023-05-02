@@ -4,10 +4,10 @@
 <!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/migvanderlei/) -->
 
 
-- 📖 Cursando Sistemas de Informação na Universidade do Estado do Amazonas
-- 💻 Engenheiro de Machine Learning
+- 📖 Bacharel em Sistemas de Informação pela Universidade do Estado do Amazonas
+- 💻 Engenheiro de Machine Learning na área de Visão Computacional
 - 👨‍💻 Pesquisador em NLP
-- 📊 Um apaixonado por dados 
+- 📊 Um apaixonado por dados
 <!--
 **migvanderlei/migvanderlei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
