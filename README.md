@@ -5,7 +5,7 @@
 
 
 - 📖 Bacharel em Sistemas de Informação pela Universidade do Estado do Amazonas
-- 💻 Engenheiro de Machine Learning na área de Visão Computacional
+- 💻 Engenheiro de Machine Learning e Engenheiro de Backend
 - 👨‍💻 Pesquisador em NLP
 - 📊 Um apaixonado por dados
 <!--
